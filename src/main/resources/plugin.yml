@@ -1,5 +1,5 @@
 name: nice_plugin
-main: YOU.aDELEMPHII.nice_plugin.nice_plugin
+main: YOU.aDELEMPHII.nice_plugin.mAIN
 version: ${project.version}
 description: Its a nice plugin, yo (step)bro/sis
 api-version: "1.13"
