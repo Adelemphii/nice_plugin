@@ -1,0 +1,15 @@
+name: nice_plugin
+main: YOU.aDELEMPHII.nice_plugin.nice_plugin
+version: ${project.version}
+description: Its a nice plugin, yo (step)bro/sis
+api-version: "1.13"
+depend:
+
+softdepend:
+  - PlaceholderAPI
+  - ProtocolLib
+  - Vault
+  - WorldEdit
+  - WorldEdit
+  - WorldGuard
+  - WorldGuard
